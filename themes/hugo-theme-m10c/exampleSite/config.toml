@@ -16,9 +16,9 @@ paginate = 8
     url = "/tags/"
     weight = 2
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "Sobre Mim"
+    name = "Sobre Mim"
+    url = "/Sobre Mim/"
     weight = 3
 
 [params]

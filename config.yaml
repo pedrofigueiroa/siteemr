@@ -12,9 +12,9 @@ menu:
       name: Tags
       url: /tags/
       weight: 2
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: Sobre Mim
+      name: Sobre Mim
+      url: /Sobre Mim/
       weight: 3
 params:
   author: Pedro Figueiroa
