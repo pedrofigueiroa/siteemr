@@ -1,5 +1,5 @@
 baseURL: https://pedrofigueiroa.netlify.app/
-title: Seu Título
+title: Meu primeiro Site em R
 theme: hugo-theme-m10c
 paginate: 8
 menu:
@@ -18,12 +18,12 @@ menu:
       weight: 3
 params:
   author: Pedro Figueiroa
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  description: Meu primeiro site em R.
   menu_item_separator: ' - '
   social:
     - icon: github
       name: Github
-      url: https://github.com/gohugoio
+      url: https://github.com/pedrofigueiroa
     - icon: twitter
       name: Twitter
-      url: https://twitter.com/gohugoio
+      url: https://twitter.com/_frances_23
