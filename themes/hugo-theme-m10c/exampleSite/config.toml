@@ -18,7 +18,7 @@ paginate = 8
   [[menu.main]]
     identifier = "Sobre Mim"
     name = "Sobre Mim"
-    url = "/Sobre Mim/"
+    url = "/about/"
     weight = 3
 
 [params]

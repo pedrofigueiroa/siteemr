@@ -14,7 +14,7 @@ menu:
       weight: 2
     - identifier: Sobre Mim
       name: Sobre Mim
-      url: /Sobre Mim/
+      url: /about/
       weight: 3
 params:
   author: Pedro Figueiroa
