@@ -32,7 +32,7 @@ paginate = 8
   [[params.social]]
     icon = "twitter"
     name = "Twitter"
-    url = "https://twitter.com/_frances_23"
+    url = ""
 
   # Default theme
   #[params.style]
