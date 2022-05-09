@@ -14,7 +14,5 @@ Esse tutorial, vai ensinar a vocês como modificar os post do nosso blog
 
 Em primeiro lugar você vai em Files no R
 
-![Files](\\Users\\pedro\\Pictures\\Files.png)
-
-read.csv
+knitr::include_graphics("C:/Users/pedro/Pictures/Files.png")
 
