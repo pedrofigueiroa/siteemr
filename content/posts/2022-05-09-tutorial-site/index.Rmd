@@ -12,32 +12,3 @@ Pessoal, vou explicar para vocês como criar novos post no blogdown do R.
 Em primeiro lugar você vai no seu R Studio e clique em "Addins"
 
 ![](images/1.png)
-
-Depois vai abrir um caixa de seleção e vocês selecionem "New Post"
-
-![](images/2.png)
-
-Agora vai abrir um caixa para você colocar o Título do post, o Autor, a data em que o post está sendo escrito, você pode adicionar Tags entre outros
-Nesse tutorial só vou alterar o Título 
-
-![](images/3.png)
-
-Importante marcar R Markdown (.Rmd), ele vai dispor de mais funcionalidades para o post
-
-![](images/4.png)
-
-Pronto agora é só digitar aqui no R o que você quiser que o conteúdo será feito
-
-![](images/5.png)
-
-Caso queira colcoar uma imagem é só ir novamente em "Addin"s e selecionar "Insert Image"
-
-![](images/6.png)
-
-Feito Isso você salva o site no disquete acima e agora faremos o processo de commit
-
-
-
-
-
-
