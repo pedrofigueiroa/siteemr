@@ -31,4 +31,28 @@ Caso queira colcoar uma imagem é só ir novamente em "Addin"s e selecionar "Ins
 ![](images/6.png)
 
 Feito Isso você salva o site no disquete acima e agora faremos o processo de commit.
+Na parte superior direita vai em Git
 
+![](images/7.png)
+
+Agora vamos em Commit
+
+![](images/8.png)
+
+E vai abrir essa tela
+
+![](images/9.png)
+
+Nessa caixinha você vai selecionar as mudanças que você fez no site e marcá-las 
+
+![](images/10.png)
+
+Após selecionadas as mudanças tente fazer aos poucos, para não travar muito
+Digite a mensagem para commit, a mensagem que você digitar, você vai conseguir ver lá no github
+E depois clique em commit
+
+![](images/11.png)
+
+E depois clique em push
+
+![](images/12.png)
