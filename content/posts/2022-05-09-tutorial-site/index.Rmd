@@ -49,10 +49,10 @@ Nessa caixinha você vai selecionar as mudanças que você fez no site e marcá-
 
 Após selecionadas as mudanças tente fazer aos poucos, para não travar muito
 Digite a mensagem para commit, a mensagem que você digitar, você vai conseguir ver lá no github
-E depois clique em commit
+E depois clique em commit!
 
 ![](images/11.png)
 
-E depois clique em push
+E depois clique em push.
 
 ![](images/12.png)
