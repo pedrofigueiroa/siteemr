@@ -26,8 +26,9 @@ Pronto agora é só digitar aqui no R o que você quiser que o conteúdo será f
 
 ![](images/5.png)
 
-Caso queira colcoar uma imagem é só ir novamente em "Addin"s e selecionar "Insert Image"
+Caso queira colcoar uma imagem é só ir novamente em "Addin"s e selecionar "Insert Image".
 
 ![](images/6.png)
 
-Feito Isso você salva o site no disquete acima e agora faremos o processo de commit
+Feito Isso você salva o site no disquete acima e agora faremos o processo de commit.
+
