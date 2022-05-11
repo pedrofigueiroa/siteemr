@@ -1,5 +1,5 @@
 ---
-title: Tutorial Site
+title: Tutorial Novo Post no Site
 author: Pedro Figueiroa
 date: '2022-05-09'
 slug: []
@@ -7,52 +7,56 @@ categories:
   - Blogdown
 tags: []
 ---
-Pessoal, vou explicar para vocês como criar novos post no blogdown do R.
+Pessoal então vou explicar para vocês como criar novos post no blogdown do R.
 
-Em primeiro lugar você vai no seu R Studio e clique em "Addins"
+Em primeiro lugar você vai no seu R Studio e clique em "Addins".
 
 ![](images/1.png)
 
-Agora vai abrir um caixa para você colocar o Título do post, o Autor, a data em que o post está sendo escrito, você pode adicionar Tags entre outros
-Nesse tutorial só vou alterar o Título 
+Agora vai abrir um caixa onde você pode editar as informações do site como o título do post, o autor, a data em que o post foi escrito. Você pode também adicionar Tags
+Nesse exemplo, eu alterei o título, o autor e a data do post.
 
 ![](images/3.png)
 
-Importante marcar R Markdown (.Rmd), ele vai dispor de mais funcionalidades para o post
+Importante marcar R Markdown (.Rmd), ele vai dispor de mais funcionalidades para o post.
 
 ![](images/4.png)
 
-Pronto agora é só digitar aqui no R o que você quiser que o conteúdo será feito
+Pronto agora é só digitar aqui no R o que você quiser e para ver como o conteúdo vai ficar é só digitar no console -> blogdown::serve_site(), que no viewer você vai conseguir ver
 
 ![](images/5.png)
+![](images/13.png)
 
-Caso queira colcoar uma imagem é só ir novamente em "Addin"s e selecionar "Insert Image".
+Caso queira colocar uma imagem é só ir novamente em "Addin"s e selecionar "Insert Image".
 
 ![](images/6.png)
 
 Feito Isso você salva o site no disquete acima e agora faremos o processo de commit.
-Na parte superior direita vai em Git
+Na parte superior direita você vai em Git.
 
 ![](images/7.png)
 
-Agora vamos em Commit
+Agora vamos em Commit.
 
 ![](images/8.png)
 
-E vai abrir essa tela
+E vai abrir essa tela.
 
 ![](images/9.png)
 
-Nessa caixinha você vai selecionar as mudanças que você fez no site e marcá-las 
+Nessa caixinha você vai selecionar as mudanças que você fez no site e marcá-las.
 
 ![](images/10.png)
 
-Após selecionadas as mudanças tente fazer aos poucos, para não travar muito
-Digite a mensagem para commit, a mensagem que você digitar, você vai conseguir ver lá no github
+Após selecionadas as mudanças, um ponto importante é tente fazer aos poucos, porque o processo é pesado e lento então ao fazer muitas mudanças pode demorar muito.
+Digite a mensagem para commit, a mensagem que você digitar você vai ver lá no github e vai ficar simples de saber qual commit alterou o que no seu site.
 E depois clique em commit!
 
 ![](images/11.png)
 
-E depois clique em push.
+Após o commit ficar pronto, clique em push.
 
 ![](images/12.png)
+
+Pronto pessoal, agora é só acessar o site e verificar as alterações. 
+Caso vocês entrarem no site e as atualizações ainda não estejam ativas, só esperar um pouco que pode demorar para salvar as atualizações.
